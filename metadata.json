@@ -1,0 +1,6 @@
+{
+  "name": "Academic Writing Assistant",
+  "description": "Transforms any academic query or essay prompt into a comprehensive, high-quality college assignment response adhering to the PEEL framework and APA 7th edition referencing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
